@@ -1,4 +1,5 @@
 PROYECTO: SERVIDOR LDAP CON UBUNTU/ZORIN
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 RESUMEN
 Este proyecto consiste en la instalación, configuración y prueba de un servidor LDAP (OpenLDAP) en una máquina Ubuntu/Zorin OS. Se crea una estructura organizativa básica, se agregan usuarios al directorio, se realizan búsquedas, modificaciones y eliminaciones, y se generan contraseñas cifradas. El objetivo es familiarizarse con tareas básicas de gestión de un servidor de directorio centralizado, útil para autenticar usuarios o centralizar información en una red empresarial.
