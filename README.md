@@ -15,8 +15,6 @@ Añadir, modificar, buscar y eliminar usuarios.
 
 Comprender la base de funcionamiento de un directorio y tareas básicas de administración.
 
-Prepararse para responder preguntas de entrevistas sobre LDAP.
-
 TECNOLOGÍAS UTILIZADAS
 
 Sistemas Operativos: Ubuntu/Zorin OS
