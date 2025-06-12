@@ -140,6 +140,8 @@ ldapdelete -x -D "cn=admin,dc=empresa,dc=local" -W "uid=juan,ou=people,dc=empres
 LECCIONES APRENDIDAS
 Automatización: Comprender cómo gestionar un directorio LDAP, crear y modificar entradas.
 
+
 Autenticación centralizada: Saber que LDAP es base para acceso a múltiples sistemas.
+
 
 Administración: Conocer comandos ldapadd, ldapmodify, ldapsearch y ldapdelete.
