@@ -56,7 +56,7 @@ Respuestas sugeridas:
 
 • Nombre de la organización → Empresa
 
-• Contraseña de administrador LDAP → (elige una segura)
+• Contraseña de administrador LDAP → la que yo quiera
 
 • ¿Borrar base al purgar slapd? → No
 
@@ -115,8 +115,6 @@ Añadirlo con:
 ldapadd -x -D "cn=admin,dc=empresa,dc=local" -W -f usuario.ldif
 
 BUSCAR UN USUARIO
-
-Ejecutar:
 
 ldapsearch -x -b "dc=empresa,dc=local" "(uid=juan)"
 
