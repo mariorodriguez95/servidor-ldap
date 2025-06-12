@@ -138,6 +138,7 @@ Ejecutar:
 ldapdelete -x -D "cn=admin,dc=empresa,dc=local" -W "uid=juan,ou=people,dc=empresa,dc=local"
 
 LECCIONES APRENDIDAS
+
 Automatización: Comprender cómo gestionar un directorio LDAP, crear y modificar entradas.
 
 
