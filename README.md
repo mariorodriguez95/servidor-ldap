@@ -64,8 +64,6 @@ Respuestas sugeridas:
 
 COMPROBAR FUNCIONAMIENTO BÁSICO
 
-Ejecutar:
-
 ldapsearch -x
 
 Si devuelve “result: 32 No such object”, el servidor está activo pero sin entradas personalizadas.
