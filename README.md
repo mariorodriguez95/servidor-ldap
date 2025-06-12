@@ -7,7 +7,7 @@ Este proyecto consiste en la instalación, configuración y prueba de un servido
 
 OBJETIVOS
 
-Instalar y configurar un servidor LDAP (slapd).
+Instalar y configurar un servidor LDAP.
 
 Crear una estructura organizativa dentro del árbol LDAP.
 
